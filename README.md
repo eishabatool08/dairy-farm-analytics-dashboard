@@ -1,6 +1,6 @@
-#Dairy Farm Analytics Dashboard
+# Dairy Farm Analytics Dashboard
 
-##Project Overview
+## Project Overview
 This Power BI dashboard was developed as part of a Data Analytics project.
 
 The dashboard provides insights into:
@@ -11,13 +11,13 @@ The dashboard provides insights into:
 - Brand Performance
 - Sales Trends
 
-##Tools Used
+## Tools Used
 
 - Power BI
 - Excel
 - Data Analytics Techniques
 
-##Dashboard Preview
+## Dashboard Preview
 <img width="947" height="486" alt="Screenshot 2026-06-12 105247" src="https://github.com/user-attachments/assets/d1998302-ed9f-4826-a825-5cdedf13efbf" />
 
 
@@ -29,5 +29,5 @@ The dashboard provides insights into:
 - Product performance tracking
 - Interactive filtering and reporting
 
-#Author
+# Author
 Eisha Batool
